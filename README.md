@@ -1,6 +1,8 @@
-# EndNote
- About EndNote and SCI
+# Project introduction
+The project is to store the term lists and styles which are used in SCI writing.
+
 # Term lists
-* Add the term lists collected from NCBI to medical of EndNote
+Store the term lists collected from NCBI website.
+
 # Styles
-* Edite the styles by myself
+Store the styles which are not in the EndNote website.
