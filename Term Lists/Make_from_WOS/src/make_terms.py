@@ -39,7 +39,8 @@ class JournalTermMaker:
     
     def add_from_file(self, file_path: str):
         self.query_terms_table = self.read_file(file_path)
-        for _, row in tqdm(self.query_terms_table.iterrows(), total=self.query_terms_table.shape[0], desc="Adding terms", position=0, leave=True):
+        # for _, row in tqdm(self.query_terms_table.iterrows(), total=self.query_terms_table.shape[0], desc="Adding terms", position=0, leave=True):
+        for _, row in self.query_terms_table.iterrows():
             self.add(row['Full Name'], row['ISO Abbreviation'], row['JCR Abbreviation'])
 
         return None
