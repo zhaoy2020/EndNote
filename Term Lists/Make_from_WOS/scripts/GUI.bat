@@ -1,1 +1,0 @@
-D:\ProgramFiles\miniconda\envs\deeplearning\python.exe ..\src\gui_commands.py

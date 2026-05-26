@@ -1,0 +1,1 @@
+Make a journal terms list for Endnote. All terms are collected from [Web of Science](https://jcr.clarivate.com/jcr/browse-journals).
