@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from tkinter.scrolledtext import ScrolledText
 
-from make_terms import JournalTermMaker
+from update_terms import JournalTermMaker
 
 
 # =========================

@@ -1,0 +1,2 @@
+@REM D:\ProgramFiles\miniconda\envs\deeplearning\python.exe ..\src\update_terms.py --match_table ..\dbs\Medical_v20260204_manual.xlsx --add_from_file ..\queries\1.xlsx --output ..\outputs\updated_match_table.xlsx
+D:\ProgramFiles\miniconda\envs\deeplearning\python.exe ..\src\update_terms.py --match_table ..\dbs\lastest.xlsx --add_from_file ..\queries\1.xlsx --output ..\outputs\updated_match_table.xlsx
